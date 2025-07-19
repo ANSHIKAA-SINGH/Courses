@@ -1,0 +1,23 @@
+[33mcommit c542c2902562116f167ea59d7c7fd0b449b7fd6e[m
+Author: ANSHIKAA-SINGH <anshika2808singh@gmail.com>
+Date:   Sat Jul 19 10:49:17 2025 +0530
+
+    Removed venv and added to .gitignore
+
+[33mcommit 0dfdac512181b718f0ed36e77679772a05206473[m
+Author: ANSHIKAA-SINGH <anshika2808singh@gmail.com>
+Date:   Sat Jul 19 09:26:10 2025 +0530
+
+    Track large file with LFS
+
+[33mcommit 3cad8d0c023b94f9e56f5b043ec1c4d45d0a5cb2[m
+Author: ANSHIKAA-SINGH <anshika2808singh@gmail.com>
+Date:   Sat Jul 19 09:24:05 2025 +0530
+
+    Remove venv and add to .gitignore
+
+[33mcommit ed2f9a3864c5b94bbd80cb5b789b0a1bc1575fb2[m
+Author: ANSHIKAA-SINGH <anshika2808singh@gmail.com>
+Date:   Sat Jul 19 09:19:25 2025 +0530
+
+    commit
